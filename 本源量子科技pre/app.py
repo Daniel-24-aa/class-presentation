@@ -46,7 +46,7 @@ if page == "🏠 Home":
     """, unsafe_allow_html=True)
 
     st.image(
-        "images/wukong.jpg",
+        "本源量子科技pre/images/wukong.jpg",
         use_container_width=True
     )
    
